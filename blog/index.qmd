@@ -1,7 +1,7 @@
 ---
 title: "Writing"
 description: ""
-subtitle: "Thoughts, musings and notebooks on clinical development, digital health, AI"
+subtitle: "Thinking out loud about health, technology, AI, and how we find out what really works."
 listing:
   contents: posts
   sort: "date desc"
