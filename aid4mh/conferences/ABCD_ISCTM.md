@@ -1,5 +1,6 @@
 ---
 title: "Factors impacting collection of continual physiological data in children using wearables deployed in real-world settings"
+description: "Conference presentation on factors affecting continual physiological data collection from wearables in children in real-world settings."
 date: 2022-02-23
 author: "Ethan Kim, Grace Jacobs, Abhishek Pratap"
 categories: ["Wearables", "ABCD Study", "Systematic bias"]
@@ -8,7 +9,7 @@ image: "/aid4mh/images/publications/JMIR_elevateMS_paper_featured_image.png"
 
 {{< include /aid4mh/_archive-note.md >}}
 
-![](/aid4mh/images/publications/JMIR_elevateMS_paper_featured_image.png){width="80%" fig-align="center"}
+![](/aid4mh/images/publications/JMIR_elevateMS_paper_featured_image.png){width="80%" fig-align="center" fig-alt="Featured image from the elevateMS study paper in JMIR"}
 
 ## Abstract
 ### Introduction

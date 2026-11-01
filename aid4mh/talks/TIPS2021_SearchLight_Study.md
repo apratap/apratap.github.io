@@ -13,7 +13,7 @@ image: "/aid4mh/images/publications/2021Q4_TIPS_Blitz_Talk.png"
 [Slides](https://filedn.com/l4tGgxWLEWeBj6LvlhtwCYF/PPTs/202110_TIPS_Blitz_Talk.pdf){.btn .btn-outline-primary .btn-sm} [TIPS-2021](https://home.mcleanhospital.org/tips#agenda){.btn .btn-outline-primary .btn-sm}
 :::
 
-![](/aid4mh/images/publications/2021Q4_TIPS_Blitz_Talk.png){width="80%" fig-align="center"}
+![](/aid4mh/images/publications/2021Q4_TIPS_Blitz_Talk.png){width="80%" fig-align="center" fig-alt="Title slide of the TIPS 2021 talk on the SearchLight study"}
 
 ## Abstract
 Suicide continues to be among the top 10 leading causes of death in the US.  Despite decades of research, our ability to predict when someone might be at the highest risk of self-harm suicide has not significantly improved.  Personalized social media and online search history data, by contrast, could provide an ongoing real-world datastream revealing internal thoughts and personal states of mind. 

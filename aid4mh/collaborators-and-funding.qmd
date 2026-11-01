@@ -1,5 +1,6 @@
 ---
 title: "Collaborators & funding"
+description: "Collaborators and funders of the AID4MH group at CAMH, including NIH NIMH, NSF and the Krembil Foundation."
 ---
 
 {{< include /aid4mh/_archive-note.md >}}

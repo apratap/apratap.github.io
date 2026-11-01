@@ -5,6 +5,7 @@ author: "Krishna Kothumbaka, David Rotenburg, Abhishek Pratap"
 description: "Developing a real-time method to convert EHR data to OMOP-CDM format."
 categories: ["machine learning", "EHR", "OMOP"]
 image: "/aid4mh/images/projects/etoc/etoc_infographic.png"
+image-alt: "Infographic of the eTOC project"
 ---
 
 {{< include /aid4mh/_archive-note.md >}}
@@ -19,7 +20,7 @@ Briefly, FHIR standard data allows seamless exchange of medical data from EHR’
 
 OMOP is a standard to harmonize and integrate disparate health information that may be present in multiple databases within and across institutions into a unified common data model (CDM). For example, it can help query and create study cohorts - ‘women aged between 18-25 who were prescribed an antidepressant at first visit’.
 
-![](/aid4mh/images/projects/etoc/etoc_infographic.png)
+![](/aid4mh/images/projects/etoc/etoc_infographic.png){fig-alt="Infographic of the eTOC project"}
 
 The primary objective of this project is to develop a real-time data translation layer that can convert in-house EHR data to OMOP-CDM format. Once translated, we aim to have the enterprise EHR data at CAMH in FHIR and OMOP formats.  
 

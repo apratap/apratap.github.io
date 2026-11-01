@@ -5,6 +5,7 @@ author: "Amirmohammad Kazemeini, Ethan Kim, Abhishek Pratap"
 description: "Building an independent psycholinguistic feature extraction pipeline for unstructured textual data"
 categories: ["Natural language processing", "Psycholinguistics", "Mental health"]
 image: "/aid4mh/images/projects/psylap/psylap_infographic.png"
+image-alt: "Infographic of the PsyLaP psycholinguistics analysis pipeline"
 ---
 
 {{< include /aid4mh/_archive-note.md >}}
@@ -13,7 +14,7 @@ Whether it’s a short tweet or a detailed blog post, the internet has become th
 
 Our aim in building PsyLaP is to understand the key psycholinguistic features (e.g sentiment, key semantic meanings, etc.) expressed by individuals in free real-world text data using a combination of various state-of-the-art natural-language-processing (NLP) methods. For example, finding time in/variant patterns (sentiment, key topics mentioned) related to an individual’s personality and assessing how they could be predictive of long-term mental health outcomes (e.g individualized risk and protective factors related to anxiety, mood etc).
 
-![](/aid4mh/images/projects/psylap/psylap_infographic.png)
+![](/aid4mh/images/projects/psylap/psylap_infographic.png){fig-alt="Infographic of the PsyLaP psycholinguistics analysis pipeline"}
 
 We are building PsyLap, an independent multi-dimensional feature extraction pipeline that can be used for research projects that rely on unstructured textual data. The pipeline will be capable of mapping open text (tweets, online searches etc) to psychosocial constructs such as affect, cognition using a combination of data driven and expert-curated approaches etc.
 

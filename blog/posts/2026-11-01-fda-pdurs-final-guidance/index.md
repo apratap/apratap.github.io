@@ -4,6 +4,7 @@ date: 2026-11-01
 description: "FDA's final guidance on prescription drug use-related software treats sponsor-provided companion apps as drug labeling. Early thoughts on evidence planning and the drug lifecycle."
 categories: [regulatory, digital health, clinical development]
 image: card.png  # illustration cropped from slide 1
+image-alt: "Illustration of a prescription bottle next to a phone showing a medication app"
 ---
 
 FDA has released its [final guidance on prescription drug use-related software (PDURS)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/regulatory-considerations-prescription-drug-use-related-software).

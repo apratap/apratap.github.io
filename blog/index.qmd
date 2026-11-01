@@ -1,5 +1,6 @@
 ---
 title: "Writing"
+description: "Writing by Abhishek (Abhi) Pratap on clinical development, digital health, AI and regulatory science."
 subtitle: "Thoughts, notes and notebooks."
 listing:
   contents: posts

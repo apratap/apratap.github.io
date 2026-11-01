@@ -1,5 +1,31 @@
 ---
-pagetitle: "Abhishek (Abhi) Pratap"
+pagetitle: "Clinical R&D, Digital Health and AI"  # Quarto appends " – Abhishek (Abhi) Pratap"
+open-graph:
+  title: "Abhishek (Abhi) Pratap · Clinical R&D, Digital Health and AI"
+twitter-card:
+  title: "Abhishek (Abhi) Pratap · Clinical R&D, Digital Health and AI"
+# Structured data so search engines can recognize who this site is about.
+include-in-header:
+  - text: |
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Abhishek Pratap",
+        "alternateName": "Abhi Pratap",
+        "url": "https://apratap.github.io/",
+        "image": "https://apratap.github.io/images/headshot.png",
+        "jobTitle": "Global Head of Medicine, Digital Health Technologies",
+        "worksFor": {"@type": "Organization", "name": "Boehringer Ingelheim"},
+        "affiliation": [
+          {"@type": "CollegeOrUniversity", "name": "University of Washington"},
+          {"@type": "CollegeOrUniversity", "name": "Boston University"},
+          {"@type": "CollegeOrUniversity", "name": "King's College London"}
+        ],
+        "knowsAbout": ["Clinical trials", "Clinical development", "Digital health", "Artificial intelligence", "Mental health"],
+        "sameAs": ["https://www.linkedin.com/in/abhishekpratap/"]
+      }
+      </script>
 description: "Clinical R&D and technology leader: clinical trials, digital health and AI for clinical development."
 image: images/headshot.png
 page-layout: full

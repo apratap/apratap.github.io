@@ -1,5 +1,6 @@
 ---
 title: "Indicators of retention in remote digital health studies: a cross-study evaluation of 100,000 participants"
+description: "Indicators of retention in remote digital health studies: a cross-study evaluation of 100,000 participants (npj Digital Medicine, 2020)."
 date: 2020-02-17
 author: "Abhishek Pratap, Elias Chaibub Neto, Phil Snyder, Carl Stepnowsky, Noémie Elhadad, Daniel Grant, Matthew H. Mohebbi, Sean Mooney, Christine Suver, John Wilbanks, Lara Mangravite, Patrick J. Heagerty, Pat Arean, Larsson Omberg"
 categories: ["digitalHealth", "participant retention", "remote engagement"]
@@ -12,7 +13,7 @@ image: "/aid4mh/images/publications/NPJ2020_retention_paper_image.png"
 [PDF](https://www.nature.com/articles/s41746-020-0224-8.pdf){.btn .btn-outline-primary .btn-sm} [Dataset](https://www.synapse.org/#!Synapse:syn20715364/wiki/596097){.btn .btn-outline-primary .btn-sm} [DOI](https://doi.org/10.1038/s41746-020-0224-8){.btn .btn-outline-primary .btn-sm}
 :::
 
-![](/aid4mh/images/publications/NPJ2020_retention_paper_image.png){width="80%" fig-align="center"}
+![](/aid4mh/images/publications/NPJ2020_retention_paper_image.png){width="80%" fig-align="center" fig-alt="Figure from the npj Digital Medicine paper on retention in remote digital health studies"}
 
 ## Abstract
 Digital technologies such as smartphones are transforming the way scientists conduct biomedical research. Several remotely conducted studies have recruited thousands of participants over a span of a few months allowing researchers to collect real-world data at scale and at a fraction of the cost of traditional research. Unfortunately, remote studies have been hampered by substantial participant attrition, calling into question the representativeness  of the collected data including generalizability of outcomes. We report the findings regarding recruitment and retention from eight remote digital health

@@ -1,5 +1,6 @@
 ---
 title: "Research Summary"
+description: "AID4MH research areas: digital biomarkers, personalized health trajectories, bias in digital mental health, and the clinical utility of AI and technology."
 ---
 
 {{< include /aid4mh/_archive-note.md >}}
@@ -19,7 +20,7 @@ Today, a wealth of information can be collected using smartphones and wearables,
 ### Our Focus Areas of Research
 ### Digital biomarkers
 
-![](/aid4mh/images/research-icons/icon_digital_biomarker.svg){width=72px}
+![](/aid4mh/images/research-icons/icon_digital_biomarker.svg){width=72px fig-alt="Digital biomarkers icon"}
 
 *Development of novel clinical-grade digital biomarkers of real-world symptoms, severity, and triggers of mental health.*
 
@@ -32,7 +33,7 @@ The high-frequency [real-world](https://www.fda.gov/science-research/science-and
 
 ### Personalized health trajectories
 
-![](/aid4mh/images/research-icons/icon_personalized.svg){width=72px}
+![](/aid4mh/images/research-icons/icon_personalized.svg){width=72px fig-alt="Personalized health trajectories icon"}
 
 *Understand how an individuals’ unique day-to-day experience can help inform their mental health care and management*
 
@@ -49,7 +50,7 @@ In essence, our goal is to understand what and how real-world risk and protectiv
 
 ### Bias in digital mental health
 
-![](/aid4mh/images/research-icons/icon_bias.svg){width=72px}
+![](/aid4mh/images/research-icons/icon_bias.svg){width=72px fig-alt="Bias in digital mental health icon"}
 
 *Quantify how biases due to the digital divide, lack of diversity, and data privacy could impact the future of inclusive digital mental health*
 
@@ -66,7 +67,7 @@ At AID4MH lab, we are interested in quantifying potential biases in digital heal
 
 ### Clinical utility of AI and Tech
 
-![](/aid4mh/images/research-icons/icon_clinical_utility.svg){width=72px}
+![](/aid4mh/images/research-icons/icon_clinical_utility.svg){width=72px fig-alt="Clinical utility of AI and technology icon"}
 
 *Explore the modular ecosystem needed for using AI-informed workflows in mental health care, including open standards for integrating real-world data into electronic health records*
 

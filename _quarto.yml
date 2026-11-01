@@ -6,13 +6,15 @@ project:
     - "*.md"
     - "*.ipynb"
     - "!README.md"
+  post-render: _scripts/add_canonical.py  # canonical URLs for search engines
   resources:
     - images/card-placeholder.svg
 
 website:
   title: "Abhishek (Abhi) Pratap"
   site-url: https://apratap.github.io
-  description: "Abhishek (Abhi) Pratap: digital health, AI and mental health research."
+  description: "Abhishek (Abhi) Pratap: clinical R&D and technology leader in clinical trials, digital health and AI for clinical development."
+  image: images/headshot.png  # default preview image for pages without their own
   favicon: images/headshot.png
   open-graph: true
   twitter-card: true

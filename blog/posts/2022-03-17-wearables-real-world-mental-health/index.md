@@ -5,6 +5,7 @@ author: "Ramzi Halabi, Ava Homiar, Ethan Kim, Adeel Ansari, Aditi Surendra, Soph
 description: "Wearable Operations - Deploying wearables in real-world settings - decentralized research, digital health"
 categories: ["Wearables"]
 image: "/aid4mh/images/projects/wearops/WearOps_infographic_02.png"
+image-alt: "Diagram of the steps in our wearables operations"
 ---
 
 ## **The opportunity**
@@ -23,7 +24,7 @@ Augmented with self-reported outcomes and episodic clinical data, physiological 
 
 There is growing interest to explore the feasibility and utility of using wearable tech to monitor individual physiological responses to various psychosocial settings as people go about their daily lives. Ongoing early research has demonstrated the potential of wearable tech in mental health research and care. Some examples include wrist devices that can alleviate anxiety,  monitoring sleep, and motor data to predict crisis periods in people with depression<sup>4-5</sup>.  And by observing real-world behavior at scale, researchers could identify underlying [transdiagnostic](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7027356/) signatures (e.g sleep, stress, local environment, etc) related to mental health.  Such risk factors could accumulate differentially over time in individuals leading to different lived experiences. 
 
-![diagram showing participants' interactions with their smartphone, leading to a doctor's visit](/aid4mh/images/projects/wearops/WearOps_infographic_01.png)
+![diagram showing participants' interactions with their smartphone, leading to a doctor's visit](/aid4mh/images/projects/wearops/WearOps_infographic_01.png){fig-alt="diagram showing participants' interactions with their smartphone, leading to a doctor's visit"}
 
 
 > ### Our goal is to enable a transparent ecosystem for deploying wearbles in clinical research (and eventually care), to collect real-world end-points related to clinical outcomes of interest. 
@@ -35,7 +36,7 @@ Deploying the devices (+ accompanying smartphone apps) from the research facilit
 
 The WearOps effort at KCNI/CAMH aims to bring the crucial stakeholders (from manufacturers, researchers, privacy experts, clinicians to participants/patients, and their families) to develop an efficient and transparent system for enabling wearable research. The WearOPS overall process ranges from selecting and configuring fit-for-purpose devices to using machine learning/artificial intelligence methods to create robust and transparently validated digital biomarkers linked to clinical outcomes of interest in a target population.  
 
-![diagram showing the steps in our wearables operations](/aid4mh/images/projects/wearops/WearOps_infographic_02.png)
+![diagram showing the steps in our wearables operations](/aid4mh/images/projects/wearops/WearOps_infographic_02.png){fig-alt="diagram showing the steps in our wearables operations"}
 
 
 For our initial research studies, we are focusing on the following key areas:

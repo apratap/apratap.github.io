@@ -1,9 +1,11 @@
 ---
 title: "Digital health - keeping bias and equity at the front and center"
+description: "Why bias and equity need to be at the front and center of digital health research and care."
 date: 2022-03-28
 author: "Aditi Surendra & Abhishek Pratap"
 categories: ["AID4MH"]
 image: "/aid4mh/images/blog/bias/biasindigitalhealth-01.png"
+image-alt: "Illustration on bias and equity in digital health"
 ---
 
 COVID-19 has unarguably brought [Digital + Health](https://www.nature.com/articles/s41591-020-1011-4) closer than ever -  powering hundreds of [digitally-augmented trials](https://beta.clinicaltrials.gov/search?patient=covid%20%20AND%20digital&locStr=&distance=0) to remote assessment and care [delivery](https://www.nejm.org/doi/full/10.1056/NEJMp2005835). However, [uniform use](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7197532/) of health tech by a diverse and representative population should not be taken for granted. 
@@ -24,7 +26,7 @@ The Global South also stands to benefit from this a great deal due to regional c
 
 However, to expect diverse and representative use of technology for health may be delusionary, atleast in the short term. There are several real-world challenges - like the reluctance of people to participate and continue to engage and share their health-related data in decentralized research trials due to privacy concerns or the digital divide. 
 
-![](/aid4mh/images/blog/bias/biasindigitalhealth-01.png){width="70%" fig-align="center"}
+![](/aid4mh/images/blog/bias/biasindigitalhealth-01.png){width="70%" fig-align="center" fig-alt="Illustration on bias and equity in digital health"}
 
 There is a risk for researchers to jump at the opportunity to have this wealth of data at arm’s reach and perhaps [unintentionally overlook](https://www.rwjf.org/en/library/research/2019/10/reinventing-discovery.html) the need for stringent privacy policies. Recent [misadventures](https://cacm.acm.org/blogs/blog-cacm/226442-what-went-wrong-facebook-and-sharing-data-with-cambridge-analytica/fulltext) in data sharing could seriously [impact the willingness of people](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2755666) to participate in research that collects sensitive health-related data.
 
@@ -34,7 +36,7 @@ The digital divide can also be impacted by the [difference in the rate of the po
 
 So while going digital can prove to be an effective and scalable solution to address the massive [supply and demand gap](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(16)30190-5/fulltext) in healthcare in the Global South, we need to be more mindful in the design and development of decentralized studies to collect representative data that can inform the development of equitable health policies.
 
-![](/aid4mh/images/blog/bias/biasindigitalhealth-02.png){width="70%" fig-align="center"}
+![](/aid4mh/images/blog/bias/biasindigitalhealth-02.png){width="70%" fig-align="center" fig-alt="Second illustration on bias and equity in digital health"}
 
 The interplay of such real-world factors can lead to bias that may limit the impact of digital health from seeking its full potential by leaving a significant chunk of the global population behind - i.e., the less tech-savvy, the reluctant, and the disconnected. 
 

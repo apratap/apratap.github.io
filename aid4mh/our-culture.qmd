@@ -1,5 +1,6 @@
 ---
 title: "Our Culture"
+description: "The team culture of the AID4MH group at CAMH and how we worked together on digital mental health research."
 ---
 
 {{< include /aid4mh/_archive-note.md >}}
