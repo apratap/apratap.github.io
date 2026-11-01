@@ -1,0 +1,17 @@
+/*-- scss:defaults --*/
+// Dark-mode overrides; layered on top of theme.scss.
+$body-bg: #141617;
+$body-color: #e7e7e4;
+$text-muted: #9a9ea2;
+$primary: #7cc4bc;
+$link-color: $primary;
+$border-color: rgba(255, 255, 255, 0.1);
+$subtitle-color: #b5c27a;
+$navbar-bg: $body-bg;
+$navbar-fg: $body-color;
+$navbar-hl: $primary;
+$footer-bg: $body-bg;
+$note-bg: #3a3214;
+$note-border: #6b5a22;
+$note-color: #f3e3a6;
+$highlight: #8a7420;

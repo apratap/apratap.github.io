@@ -1,0 +1,13 @@
+---
+title: "AID4MH blog"
+description: "Updates from the AID4MH group at CAMH."
+listing:
+  contents: "*.md"
+  type: grid
+  grid-columns: 3
+  sort: "date desc"
+  fields: [image, date, title, description]
+  image-height: 160px
+---
+
+{{< include /aid4mh/_archive-note.md >}}

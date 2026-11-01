@@ -1,0 +1,42 @@
+Licensing for this repository (apratap.github.io)
+
+1. Content: CC BY-NC 4.0
+
+Unless noted otherwise, the written content, slides and images in this repository (blog posts, pages
+and their media) are © Abhishek (Abhi) Pratap and licensed under the Creative Commons
+Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+You may share and adapt this content for non-commercial purposes, including teaching and research,
+as long as you give appropriate credit, link to the license, and indicate if changes were made.
+
+Summary: https://creativecommons.org/licenses/by-nc/4.0/
+Full legal text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+2. Code: MIT
+
+The site's source code (theme files, scripts and configuration, e.g. *.scss, _scripts/, _quarto.yml
+and .github/) is licensed under the MIT License:
+
+  Copyright (c) 2026 Abhishek (Abhi) Pratap
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
+  associated documentation files (the "Software"), to deal in the Software without restriction,
+  including without limitation the rights to use, copy, modify, merge, publish, distribute,
+  sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in all copies or
+  substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT
+  NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+  NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES
+  OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+3. Exceptions
+
+- Published papers linked from this site remain under their publishers' copyright and licenses.
+- The AID4MH pages (aid4mh/) include work, text and images by members of the former AID4MH group at
+  CAMH; credit them and the group when reusing that material.
+- Third-party logos and trademarks belong to their owners and are not covered by these licenses.

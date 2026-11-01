@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "*.md"
+    - "*.ipynb"
+    - "!README.md"
+  resources:
+    - images/card-placeholder.svg
+
+website:
+  title: "Abhishek (Abhi) Pratap"
+  site-url: https://apratap.github.io
+  description: "Abhishek (Abhi) Pratap: digital health, AI and mental health research."
+  favicon: images/headshot.png
+  open-graph: true
+  twitter-card: true
+  navbar:
+    title: "Abhi Pratap"  # top bar only; the full name stays in page titles
+    left:
+      - href: blog/index.qmd
+        text: Writing
+      - href: papers.qmd
+        text: Papers
+      - href: aid4mh/index.qmd
+        text: AID4MH
+      - href: about.qmd
+        text: About
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/abhishekpratap/
+        aria-label: LinkedIn
+      - icon: rss
+        href: blog/index.xml
+        aria-label: Blog RSS feed
+  page-footer:
+    left: "© Abhishek (Abhi) Pratap · Content licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss]
+      dark: [cosmo, theme.scss, theme-dark.scss]
+    respect-user-color-scheme: true
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

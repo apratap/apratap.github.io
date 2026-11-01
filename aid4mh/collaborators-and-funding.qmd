@@ -1,0 +1,14 @@
+---
+title: "Collaborators & funding"
+---
+
+{{< include /aid4mh/_archive-note.md >}}
+
+<!-- The old site showed only these logos here; add collaborator names and grants as needed. -->
+
+::: {.logo-strip}
+![](/aid4mh/images/funders/CAMH_Horz_logo_w_Krembil_RGB.png){fig-alt="CAMH Krembil Centre for Neuroinformatics"}
+![](/aid4mh/images/funders/NSF_4-Color_bitmap_Logo.png){fig-alt="NSF"}
+![](/aid4mh/images/funders/KREMBIL_logo_final_mobile.png){fig-alt="Krembil Foundation"}
+![](/aid4mh/images/funders/NIH-NIMH-logo-new.png){fig-alt="NIH NIMH"}
+:::

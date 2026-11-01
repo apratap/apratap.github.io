@@ -1,0 +1,9 @@
+# Defaults applied to every post in this folder.
+author: "Abhishek (Abhi) Pratap"
+toc: true
+title-block-banner: false
+# Code in .qmd posts runs only when you render locally; results are saved in _freeze/
+# so the GitHub build never needs Python. Notebooks (.ipynb) are never re-executed:
+# their saved outputs are shown as-is.
+execute:
+  freeze: auto

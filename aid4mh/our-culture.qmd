@@ -1,0 +1,20 @@
+---
+title: "Our Culture"
+---
+
+{{< include /aid4mh/_archive-note.md >}}
+
+## Our Culture
+The culture at AID4MH is very much like our work: people-centric. 
+
+The difference that we make inside our walls carries the same weight as the one we make out in the world.
+
+Our workspace is a safe and inclusive space for all. Diversity, inclusion, and representation are integral to creating a community that can truly reflect the world we aim to impact. 
+
+We put our people before science. Our work environment is defined by the needs of our employees, whether it's flexible work hours or reasonable accommodation. 
+
+We make sure that every employee has multiple opportunities to learn and lead in the industry. We allocate funds for upskilling and facilitate platforms and meetings where our members can present their work. 
+
+Our research is incomplete without the perspective of our end users. We value health equity and are committed to building an organization that respects each and every voice.  We collaborate with every stakeholder—care providers, caregivers, patients, and study participants—to ensure that the welfare of the end-user is prioritized and addressed. 
+
+We go the extra mile to make sure the science we do is reusable and reproducible. The data and code from our research projects are broadly available following [FAIR](https://www.go-fair.org/fair-principles/)  principles unless there are restrictions due to data governance and participant privacy.
