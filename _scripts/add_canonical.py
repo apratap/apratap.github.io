@@ -8,7 +8,7 @@ engines treat them as one page.
 import re
 from pathlib import Path
 
-SITE_URL = "https://apratap.github.io/"
+SITE_URL = "https://apratap.me/"
 SITE = Path("_site")
 DUPLICATE_SECTIONS = ("aid4mh/conferences/", "aid4mh/posters/")
 PRIMARY_SECTION = "aid4mh/journal-articles/"

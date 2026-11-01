@@ -13,8 +13,8 @@ include-in-header:
         "@type": "Person",
         "name": "Abhishek Pratap",
         "alternateName": "Abhi Pratap",
-        "url": "https://apratap.github.io/",
-        "image": "https://apratap.github.io/images/headshot.png",
+        "url": "https://apratap.me/",
+        "image": "https://apratap.me/images/headshot.png",
         "jobTitle": "Global Head of Medicine, Digital Health Technologies",
         "worksFor": {"@type": "Organization", "name": "Boehringer Ingelheim"},
         "affiliation": [

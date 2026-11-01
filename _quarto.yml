@@ -12,7 +12,7 @@ project:
 
 website:
   title: "Abhishek (Abhi) Pratap"
-  site-url: https://apratap.github.io
+  site-url: https://apratap.me
   description: "Abhishek (Abhi) Pratap: clinical R&D and technology leader in clinical trials, digital health and AI for clinical development."
   image: images/headshot.png  # default preview image for pages without their own
   favicon: images/headshot.png
